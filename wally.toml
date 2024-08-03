@@ -1,9 +1,9 @@
 [package]
-name = "osyrisrblx/t"
+name = "cody-nelson/t"
 description = "A Runtime Typechecker for Roblox"
-version = "3.1.1"
+version = "1.0.0"
 license = "MIT"
-authors = ["Osyris"]
+authors = ["Osyris", "Schematics"]
 realm = "shared"
 registry = "https://github.com/upliftgames/wally-index"
 exclude = ["*"]
